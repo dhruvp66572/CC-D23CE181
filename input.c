@@ -1,5 +1,8 @@
-int main() {
-int a = 5 , 7H;
-char b = 'x';
-return a + b;
-}
+// int main() {
+// int a = 5 , 7H;
+// char b = 'x';
+// //djhd
+// return a + b;
+// }
+
+/

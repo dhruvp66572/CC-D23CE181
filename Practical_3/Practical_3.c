@@ -98,7 +98,7 @@ void tokenize(char *line) {
 
 // Main function
 int main() {
-    FILE *file = fopen("input.c", "r");
+    FILE *file = fopen("testcase1.c", "r");
     if (!file) {
         printf("Error: Cannot open file.\n");
         return 1;
